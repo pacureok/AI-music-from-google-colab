@@ -32,3 +32,4 @@ Dentro del código de generación, busca la sección de **"Prompt"** y modifica 
 
 ---
 *Nota: Este notebook está diseñado para ser ejecutado en la nube. No se recomienda su ejecución local sin una GPU compatible.*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pacureok/AI-music-from-google-colab/blob/main/AIMC.ipynb)
