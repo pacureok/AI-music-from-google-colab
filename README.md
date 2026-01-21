@@ -1,5 +1,7 @@
 # 🎵 Music AI Generator (Google Colab)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pacureok/AI-music-from-google-colab/blob/main/AIMC.ipynb)
+
 Este proyecto permite generar o transformar música utilizando Inteligencia Artificial. Sigue estos pasos detallados para asegurar que el código funcione correctamente.
 
 ---
@@ -17,7 +19,7 @@ Para obtener los mejores resultados, sigue el orden de ejecución estrictamente:
 
 ### 3. Generación con Base (Opcional)
 Si deseas utilizar una canción propia como base para la IA:
-* Debes subir un archivo en formato **.mp3** a la carpeta de archivos de Colab.
+* Debes subir un archivo en formato **.mp3** a la carpeta de archivos de Colab (icono de carpeta a la izquierda).
 * **Importante:** El nombre del archivo debe ser obligatoriamente `cancion.mp3`.
 * **Ejecutar Celda 3:** Una vez subido el archivo, ejecuta esta celda.
 
@@ -31,5 +33,9 @@ Dentro del código de generación, busca la sección de **"Prompt"** y modifica 
 - Archivo `cancion.mp3` (si se usa la función de base musical).
 
 ---
+
+## ⚖️ Licencia
+Este proyecto está bajo la **Licencia Apache 2.0**. Esto significa que puedes usar, modificar y distribuir este código libremente, siempre que se mantenga el aviso de derechos de autor y la licencia original.
+
+---
 *Nota: Este notebook está diseñado para ser ejecutado en la nube. No se recomienda su ejecución local sin una GPU compatible.*
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pacureok/AI-music-from-google-colab/blob/main/AIMC.ipynb)
