@@ -36,6 +36,11 @@ Busca la sección de **"Prompt"** en el código y modifica el texto para describ
 
 ---
 
+## 📋 NOTA
+- despues de la celda 1 renicia el entorno y ejucta celda 2 y 3 para que no de errores
+
+---
+
 ## ⚖️ Licencia
 Este proyecto está bajo la Licencia **Apache 2.0**.
 
